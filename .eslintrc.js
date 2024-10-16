@@ -43,5 +43,6 @@ module.exports = {
             ignoreRegExpLiterals: true,
         }],
         'class-methods-use-this': 'off',
+        'no-console': 'off',
     },
 };

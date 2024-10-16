@@ -13,7 +13,8 @@ npm install
 ### Launch tests:
 
 ```bash
-npm run wdio
+1. To run all tests: npm run wdio
+2. To run test1: npm run test:sorting-inventory-items
 ```
 
 ### Run eslint rules and fix errors if possible:

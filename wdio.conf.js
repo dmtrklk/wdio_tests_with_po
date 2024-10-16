@@ -24,6 +24,7 @@ exports.config = {
     //
     specs: [
         './src/tests/**/*.js',
+        './src/tests/sorting-inventory-items.e2e.js',
     ],
     // Patterns to exclude.
     exclude: [

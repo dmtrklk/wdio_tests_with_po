@@ -4,6 +4,7 @@
     "private": true,
     "scripts": {
         "wdio": "npx wdio run ./wdio.conf.js",
+        "test:sorting-inventory-items": "wdio run ./wdio.conf.js --spec ./src/tests/sorting-inventory-items.e2e.js",
         "lint": "npx eslint .   --color --fix --quiet"
     },
     "dependencies": {
