@@ -1,3 +1,4 @@
+/* eslint-disable class-methods-use-this */
 const { BasePage } = require('./Base.page');
 
 class LoginPage extends BasePage {
